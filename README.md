@@ -34,6 +34,13 @@ This project is a fully responsive real-time chat application built using Vue.js
 
 Vue.js – Front-end framework for reactive UI.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/f37f72b0-b2fa-4ad5-a234-8df0832d24cd)
+![Image](https://github.com/user-attachments/assets/02702c7b-0a05-4ceb-b246-737c21364f0f)
+![Image](https://github.com/user-attachments/assets/f5a18b80-e136-4819-84bb-b1309e910243)
+![Image](https://github.com/user-attachments/assets/be396c6a-8a51-414e-8277-39f1816f8115)
+
 WebSockets – For real-time, event-driven communication.
 
 Node.js (optional) – For creating the WebSocket server (e.g., using ws or socket.io).
